@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+# Placental Blood Flow Animation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an interactive educational tool that demonstrates the sequential stages of placental blood flow between maternal and fetal circulations. The animation visualizes the complex exchange of blood, nutrients, and gases that occurs in the placenta during pregnancy.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Step-by-step visualization of placental blood flow
+- 9 distinct stages showing different aspects of the circulation
+- Interactive controls for playback, speed adjustment, and stage navigation
+- Detailed explanations for each stage
+- Visual representation of oxygen and nutrient exchange
 
-### `npm start`
+## How to Use
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. **Play/Pause**: Start or pause the animation
+2. **Previous/Next**: Navigate to the previous or next stage
+3. **Reset**: Return to the initial state
+4. **Speed**: Adjust the animation speed with the slider
+5. **Auto-advance**: When enabled, automatically proceeds to the next stage after completion
+6. **Labels**: Toggle visibility of anatomical labels
+7. **Jump to Stage**: Click on any stage in the list to jump directly to it
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Development
 
-### `npm test`
+This project was built with React and TypeScript.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+- Node.js (v14+)
+- npm (v6+)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/placental-flow-animation.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Navigate to the project directory
+cd placental-flow-animation
 
-### `npm run eject`
+# Install dependencies
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Start the development server
+npm start
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Educational Value
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This animation is designed for medical students, healthcare professionals, and anyone interested in understanding the fascinating process of placental circulation. The visualization helps to clarify:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- The unique structure of the placenta
+- How maternal and fetal blood circulations interact without mixing
+- The process of nutrient and gas exchange
+- The path of blood flow on both maternal and fetal sides
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+MIT
