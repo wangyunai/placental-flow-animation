@@ -33,7 +33,7 @@ This project was built with React and TypeScript.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/placental-flow-animation.git
+git clone https://github.com/wangyunai/placental-flow-animation.git
 
 # Navigate to the project directory
 cd placental-flow-animation
