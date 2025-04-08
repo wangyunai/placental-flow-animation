@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/placental-flow-animation/static/css/main.286db67c.css",
+    "main.js": "/placental-flow-animation/static/js/main.6b99bd60.js",
+    "static/js/453.9387ec01.chunk.js": "/placental-flow-animation/static/js/453.9387ec01.chunk.js",
+    "index.html": "/placental-flow-animation/index.html",
+    "main.286db67c.css.map": "/placental-flow-animation/static/css/main.286db67c.css.map",
+    "main.6b99bd60.js.map": "/placental-flow-animation/static/js/main.6b99bd60.js.map",
+    "453.9387ec01.chunk.js.map": "/placental-flow-animation/static/js/453.9387ec01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.286db67c.css",
+    "static/js/main.6b99bd60.js"
+  ]
+}
